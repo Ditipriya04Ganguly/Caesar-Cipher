@@ -1,5 +1,5 @@
 # Caesar-Cipher
-#Encryption is the process of scrambling a message so that
+Encryption is the process of scrambling a message so that
 only the intended recipient can read it. With the fast
 progression of digital data exchange in electronic way,
 Information Security is becoming much more important in
